@@ -1,0 +1,7 @@
+fund_name,amfi_code,scheme_name_api,fund_house_api,records,latest_nav,latest_date,status
+HDFC_TOP_100,125497,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,3108,205.06550,24-06-2026,SUCCESS
+SBI_Bluechip,119551,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,3253,106.12680,24-06-2026,SUCCESS
+ICICI_Bluechip,120503,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,3324,108.29440,24-06-2026,SUCCESS
+Nippon_Large_Cap,118632,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,3315,101.03870,24-06-2026,SUCCESS
+Axis_Bluechip,119092,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,3582,6204.47700,24-06-2026,SUCCESS
+Kotak_Bluechip,120841,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,3318,249.84120,24-06-2026,SUCCESS
